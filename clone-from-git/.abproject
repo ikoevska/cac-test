@@ -1,0 +1,45 @@
+{
+  "ProjectName": "clone-from-git",
+  "ProjectGuid": "345cfef1-8f68-4785-9ae8-8191520a56df",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.clonefromgit",
+  "DisplayName": "clone-from-git",
+  "Author": "",
+  "Description": "clone-from-git",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{135ed854-5bc9-4688-ba46-d33c8a5714f1}",
+  "WP8ProductID": "{ef719216-afa6-4cba-a683-4e85b3ba4339}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.clonefromgit",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
